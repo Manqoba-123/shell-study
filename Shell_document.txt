@@ -1,0 +1,8 @@
+# Shell
+
+**What is shell?**
+- In simple terms shell is a programme that takes commands from keyboard and serves as a user interface to access the operating system's services.
+
+- bash which stands for Bourne Again Shell which is the enhanced version of sh acts as a shell program.
+
+**Shell Navigation**
